@@ -35,8 +35,8 @@
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=#1572B6&logoColor=white"/>
 
-
-### Портфолио:
+---
+### 💡 Портфолио:
 
 - Пример ветвления и тестирования с помощью фреймфорков TestNG и Junit4. В результатте тестирования на основе Issues был заведен [баг-репорт](https://github.com/RytoryQA/Homework-autotest-1/issues/1)
 - Пример тестирования функции перевода с карты на карту с помощью фреймфорка Selenide. В результате тестирования был создан [баг-репорт](https://github.com/RytoryQA/Homework-autotest-6/issues/1)
