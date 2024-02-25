@@ -4,15 +4,15 @@
 
 ### Обо мне:
 
-Я начинающий тестировщик. Владею навыками ручного тестирования. В настоящий момент в процессе изучения автоматизации тестирования веб- и мобильных приложений.
+Я начинающий тестировщик. Владею навыками ручного тестирования. В настоящий момент продолжаю изучение автоматизации тестирования веб- и мобильных приложений.
 
 ---
 
 ### 💻 Технологии:
- <img alt="Java" src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>  
+ <img alt="Java" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=&logoColor=000000"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"/>  
  <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
- <img alt="intellij IDEA" src="https://img.shields.io/badge/-intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+ <img alt="intellij IDEA" src="https://img.shields.io/badge/-intellij IDEA-%23323330.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
  <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -31,7 +31,7 @@
  <img alt="Jira Software" src="https://img.shields.io/badge/-Jira Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
  <img alt="Cucumber" src="https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
- <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+ <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-%23323330.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=#1572B6&logoColor=white"/>
 
