@@ -40,7 +40,7 @@
 ***Описание задачи можно найти в README-файле иллюстрирующего репозитория***  
 - Ветвление git и авто-тесты, написанные с помощью фреймфорков TestNG и Junit4. В результатте тестирования на основе Issues был заведен [баг-репорт](https://github.com/RytoryQA/Homework-autotest-1/issues/1)
 - Автоматизированное тестирование функции перевода с карты на карту с помощью фреймфорка Selenide. В результате тестирования был создан [баг-репорт](https://github.com/RytoryQA/Homework-autotest-6/issues/1)
-- Реализация работы радио. Создан Maven-проект, написан Java-класс, к нему с применением техник **тест-дизайна** написаны **авто-тесты** на JUnit5, покрывающие код на 100%. В отдельную ветку добавлена и протестирована новая фича, заведен [Pull Request](https://github.com/RytoryQA/Homework-10/pull/1)  
+- Реализация работы [радио](https://github.com/RytoryQA/Homework-10/blob/main/src/main/java/org/example/Radio.java). Создан Maven-проект, написан Java-класс, к нему с применением техник **тест-дизайна** написаны [авто-тесты](https://github.com/RytoryQA/Homework-10/blob/main/src/test/java/org/example/RadioTest.java) на JUnit5, покрывающие код на 100%. В отдельную ветку добавлена и протестирована новая фича, заведен [Pull Request](https://github.com/RytoryQA/Homework-10/pull/1)  
 
 
 
