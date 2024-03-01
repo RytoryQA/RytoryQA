@@ -4,7 +4,7 @@
 
 ### Обо мне:
 
-Я начинающий тестировщик. Владею навыками ручного тестирования. В настоящий момент продолжаю изучение автоматизации тестирования веб- и мобильных приложений.
+Я начинающий специалист в области тестирования программного обеспечения. Владею навыками ручного тестирования и написания авто-тестов. В настоящий момент продолжаю изучение автоматизации тестирования веб- и мобильных приложений.
 
 ---
 
@@ -38,14 +38,20 @@
 ---
 ### 💡 Портфолио:
 ***Описание задачи можно найти в README-файле иллюстрирующего репозитория***  
+
 - Ветвление git и авто-тесты, написанные с помощью фреймворков [TestNG](https://github.com/RytoryQA/Homework-autotest-1/blob/testng/src/test/java/org/example/CashbackHackServiceTest.java) и [Junit4](https://github.com/RytoryQA/Homework-autotest-1/blob/junit4/src/test/java/org/example/CashbackHackServiceTest.java). В результате тестирования на основе Issues был заведен [баг-репорт](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  
 - Реализация работы [радио](https://github.com/RytoryQA/Homework-10/blob/main/src/main/java/org/example/Radio.java). Создан Maven-проект, написан Java-класс, к нему с применением техник **тест-дизайна** написаны [авто-тесты](https://github.com/RytoryQA/Homework-10/blob/main/src/test/java/org/example/RadioTest.java) на JUnit5, покрывающие код на 100%. В отдельную ветку добавлена и протестирована новая фича, заведен [Pull Request](https://github.com/RytoryQA/Homework-10/pull/1)  
 - Проект на базе Selenide. Реализация доменных методов через [Page Object's](https://github.com/RytoryQA/Homework-autotest-6/tree/main/src/test/java/ru/netology/web). Автоматизированное [тестирование](https://github.com/RytoryQA/Homework-autotest-6/blob/main/src/test/java/ru/netology/web/test/MoneyTransferTest.java) функции перевода с карты на карту. В результате тестирования был создан [баг-репорт](https://github.com/RytoryQA/Homework-autotest-6/issues/1)
 - Проект  на база Selenide. Настроен режим непрерывной интеграции AppVeyor. Для генерации данных использован фреймворк Faker. Для группировки полей использованы [data-класс](https://github.com/RytoryQA/Homework-autotest-9/blob/main/src/test/java/ru/netology/test/DeliveryTest.java) и утилитный [класс-генератор данных](https://github.com/RytoryQA/Homework-autotest-9/blob/main/src/test/java/ru/netology/data/DataGenerator.java). Тестируемая функциональность: форма заказа достаки карты. К проекту подключен отчет о тестировании [Allure](https://github.com/RytoryQA/Homework-autotest-9/blob/e9368a42e22b82b2ea2841e1e24a616a43ce17b8/build.gradle#L14-L19) ([screenshot](https://github.com/RytoryQA/Homework-autotest-9/blob/main/README.md))
 - JavaScript: в парадигме ООП описана [работа библиотеки](https://github.com/RytoryQA/bjs-2-homeworks/blob/main/5.classes/task.js)
-
-
-
+  
+---
+#### Электронные сертификаты
+- [Ручное тестирование веб-приложений](https://netology.ru/sharing/22b61778ca0ac13545d55a56171695de?utm_source=social&utm_campaign=achievements)
+- [Git - система контроля версий](https://netology.ru/sharing/7f9f91715c4d52e9c697a3b6ae1965e1?utm_source=social&utm_campaign=achievements)
+- [Java для тестировщиков](https://netology.ru/sharing/4098fb367ad212dbbbc7e8a356d61c1b?utm_source=social&utm_campaign=achievements)
+- [Автоматизированное тестирование](https://netology.ru/sharing/0bbd6fe6a3e11476ad2e2cc4bc99f5df?utm_source=social&utm_campaign=achievements)
+- [JavaScript для тестировщиков](https://netology.ru/sharing/5c872d9c3a8317fef774e33261ec8503?utm_source=social&utm_campaign=achievements)
 
 
 
