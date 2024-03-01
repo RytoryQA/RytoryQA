@@ -1,15 +1,15 @@
-# Привет, меня зовут Виктория! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Привет, меня зовут Виктория! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ---
 
-### Обо мне:
+#### Обо мне:
 
 Я начинающий специалист в области тестирования программного обеспечения. Владею навыками ручного тестирования и написания авто-тестов. В настоящий момент продолжаю изучение автоматизации тестирования веб- и мобильных приложений.
 
 ---
 
-### 💻 Технологии:
- <img alt="Java" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=&logoColor=000000"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"/>  
+#### 💻 Технологии:
+ <img alt="Java" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=&logoColor=000000"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"/> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
  <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
  <img alt="intellij IDEA" src="https://img.shields.io/badge/-intellij IDEA-%23323330.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -36,7 +36,7 @@
  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=#1572B6&logoColor=white"/>
 
 ---
-### 💡 Портфолио:
+#### 💡 Портфолио:
 ***Описание задачи можно найти в README-файле иллюстрирующего репозитория***  
 
 - Ветвление git и авто-тесты, написанные с помощью фреймворков [TestNG](https://github.com/RytoryQA/Homework-autotest-1/blob/testng/src/test/java/org/example/CashbackHackServiceTest.java) и [Junit4](https://github.com/RytoryQA/Homework-autotest-1/blob/junit4/src/test/java/org/example/CashbackHackServiceTest.java). В результате тестирования на основе Issues был заведен [баг-репорт](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  
@@ -46,13 +46,8 @@
 - JavaScript: в парадигме ООП описана [работа библиотеки](https://github.com/RytoryQA/bjs-2-homeworks/blob/main/5.classes/task.js)
   
 ---
-#### Электронные сертификаты
-- [Ручное тестирование веб-приложений](https://netology.ru/sharing/22b61778ca0ac13545d55a56171695de?utm_source=social&utm_campaign=achievements)
-- [Git - система контроля версий](https://netology.ru/sharing/7f9f91715c4d52e9c697a3b6ae1965e1?utm_source=social&utm_campaign=achievements)
-- [Java для тестировщиков](https://netology.ru/sharing/4098fb367ad212dbbbc7e8a356d61c1b?utm_source=social&utm_campaign=achievements)
-- [Автоматизированное тестирование](https://netology.ru/sharing/0bbd6fe6a3e11476ad2e2cc4bc99f5df?utm_source=social&utm_campaign=achievements)
-- [JavaScript для тестировщиков](https://netology.ru/sharing/5c872d9c3a8317fef774e33261ec8503?utm_source=social&utm_campaign=achievements)
-
+#### 🏆 Электронные сертификаты
+[Сертификаты](https://github.com/RytoryQA/RytoryQA/blob/main/Certificates.md) подтвержадющие навыки
 
 
 
