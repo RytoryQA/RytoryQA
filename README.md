@@ -9,7 +9,7 @@
 ---
 
 #### 💻 Технологии:
- <img alt="Java" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=&logoColor=000000"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"/> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+ <img alt="Java" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=&logoColor=000000"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"/> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933"/> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
  <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
  <img alt="intellij IDEA" src="https://img.shields.io/badge/-intellij IDEA-%23323330.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
