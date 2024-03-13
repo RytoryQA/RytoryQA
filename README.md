@@ -35,7 +35,8 @@
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=#1572B6&logoColor=white"/>
  <img alt="Jest" src="https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=C21325"/>
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+ <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> 
+ <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
 ---
 #### 💡 Портфолио:
