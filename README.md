@@ -40,7 +40,6 @@
 
 ---
 ### 💡 Портфолио:
-****Описание задачи можно найти в README-файле иллюстрирующего репозитория***
 
 #### Примеры баг-репортов:
 - [баг-репорт 1](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  
@@ -52,6 +51,15 @@
 - [JUnit5](https://github.com/RytoryQA/Homework-10/blob/main/src/test/java/org/example/RadioTest.java) покрытие кода 100% 
 - [Selenide](https://github.com/RytoryQA/Homework-autotest-6/blob/main/src/test/java/ru/netology/web/test/MoneyTransferTest.java)
 - [Selenide](https://github.com/RytoryQA/Homework-autotest-9/tree/main/src/test/java/ru/netology)
+- [Selenide](https://github.com/RytoryQA/Homework-autotest-9)
+
+#### Примеры авто-тестов на JavaScript
+- [Playwright](https://github.com/RytoryQA/Homework-autoJS-3.2)  
+- [Puppeteer](https://github.com/RytoryQA/Homework-autoJS-4)
+
+#### Базы данных
+- [PostgreSQL](https://github.com/RytoryQA/Homework-autotest-7)  
+- [MySQL](https://github.com/RytoryQA/Homework-autotest-8)
 
 #### Мои Pull Requests
 - [Pull Request 1](https://github.com/RytoryQA/Homework-10/pull/1)
@@ -62,16 +70,16 @@
 - [Пример 2](https://github.com/RytoryQA/Homework-10)
 
 #### Page Object's
-- [Пример 1](https://github.com/RytoryQA/Homework-autotest-6/tree/main/src/test/java/ru/netology/web)  
+- [Пример 1](https://github.com/RytoryQA/Homework-autotest-6)  
+- [пример 2](https://github.com/RytoryQA/Homework-autotest-8)
 
 #### Отчеты о тестировании
-- [Allure](https://github.com/RytoryQA/Homework-autotest-9/blob/e9368a42e22b82b2ea2841e1e24a616a43ce17b8/build.gradle#L14-L19)
-- 
+- [Allure](https://github.com/RytoryQA/Homework-autotest-9)
 
-#### Примеры авто-тестов на JavaScript
-- [Playwright](https://github.com/RytoryQA/Homework-autoJS-3.2)
-
-- JavaScript: в парадигме ООП описана [работа библиотеки](https://github.com/RytoryQA/bjs-2-homeworks/blob/main/5.classes/task.js)
+#### CI
+- [Github Actions](https://github.com/RytoryQA/Homework-12) Maven
+- [Github Actions](https://github.com/RytoryQA/Homework-autotest-3) Gradle
+- [Appveyor](https://github.com/RytoryQA/Homework-autotest-5.2)
   
 ---
 #### 🏆 Электронные сертификаты
