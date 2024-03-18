@@ -2,13 +2,13 @@
 
 ---
 
-#### Обо мне:
+### Обо мне:
 
 Я начинающий специалист в области тестирования программного обеспечения. Владею навыками ручного тестирования и написания авто-тестов. В настоящий момент продолжаю изучение автоматизации тестирования веб- и мобильных приложений.
 
 ---
 
-#### 💻 Технологии:
+### 💻 Технологии:
  <img alt="Java" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=&logoColor=000000"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"/> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933"/> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
  <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
@@ -39,13 +39,38 @@
  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
 ---
-#### 💡 Портфолио:
-***Описание задачи можно найти в README-файле иллюстрирующего репозитория***  
+### 💡 Портфолио:
+****Описание задачи можно найти в README-файле иллюстрирующего репозитория***
 
-- Ветвление git и авто-тесты, написанные с помощью фреймворков [TestNG](https://github.com/RytoryQA/Homework-autotest-1/blob/testng/src/test/java/org/example/CashbackHackServiceTest.java) и [Junit4](https://github.com/RytoryQA/Homework-autotest-1/blob/junit4/src/test/java/org/example/CashbackHackServiceTest.java). В результате тестирования на основе Issues был заведен [баг-репорт](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  
-- Реализация работы [радио](https://github.com/RytoryQA/Homework-10/blob/main/src/main/java/org/example/Radio.java). Создан Maven-проект, написан Java-класс, к нему с применением техник **тест-дизайна** написаны [авто-тесты](https://github.com/RytoryQA/Homework-10/blob/main/src/test/java/org/example/RadioTest.java) на JUnit5, покрывающие код на 100%. В отдельную ветку добавлена и протестирована новая фича, заведен [Pull Request](https://github.com/RytoryQA/Homework-10/pull/1)  
-- Проект на базе Selenide. Реализация доменных методов через [Page Object's](https://github.com/RytoryQA/Homework-autotest-6/tree/main/src/test/java/ru/netology/web). Автоматизированное [тестирование](https://github.com/RytoryQA/Homework-autotest-6/blob/main/src/test/java/ru/netology/web/test/MoneyTransferTest.java) функции перевода с карты на карту. В результате тестирования был создан [баг-репорт](https://github.com/RytoryQA/Homework-autotest-6/issues/1)
-- Проект  на база Selenide. Настроен режим непрерывной интеграции AppVeyor. Для генерации данных использован фреймворк Faker. Для группировки полей использованы [data-класс](https://github.com/RytoryQA/Homework-autotest-9/blob/main/src/test/java/ru/netology/test/DeliveryTest.java) и утилитный [класс-генератор данных](https://github.com/RytoryQA/Homework-autotest-9/blob/main/src/test/java/ru/netology/data/DataGenerator.java). Тестируемая функциональность: форма заказа достаки карты. К проекту подключен отчет о тестировании [Allure](https://github.com/RytoryQA/Homework-autotest-9/blob/e9368a42e22b82b2ea2841e1e24a616a43ce17b8/build.gradle#L14-L19) ([screenshot](https://github.com/RytoryQA/Homework-autotest-9/blob/main/README.md))
+#### Примеры баг-репортов:
+- [баг-репорт 1](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  
+- [баг-репорт 2](https://github.com/RytoryQA/Homework-autotest-6/issues/1)
+
+#### Примеры авто-тестов на Java 
+- [TestNG](https://github.com/RytoryQA/Homework-autotest-1/blob/testng/src/test/java/org/example/CashbackHackServiceTest.java)
+- [Junit4](https://github.com/RytoryQA/Homework-autotest-1/blob/junit4/src/test/java/org/example/CashbackHackServiceTest.java)
+- [JUnit5](https://github.com/RytoryQA/Homework-10/blob/main/src/test/java/org/example/RadioTest.java) покрытие кода 100% 
+- [Selenide](https://github.com/RytoryQA/Homework-autotest-6/blob/main/src/test/java/ru/netology/web/test/MoneyTransferTest.java)
+- [Selenide](https://github.com/RytoryQA/Homework-autotest-9/tree/main/src/test/java/ru/netology)
+
+#### Мои Pull Requests
+- [Pull Request 1](https://github.com/RytoryQA/Homework-10/pull/1)
+- [Pull Request 2](https://github.com/RytoryQA/Homework-autoJS-1/pulls)
+
+#### Ветвление git 
+- [Пример 1](https://github.com/RytoryQA/Homework-autotest-1)
+- [Пример 2](https://github.com/RytoryQA/Homework-10)
+
+#### Page Object's
+- [Пример 1](https://github.com/RytoryQA/Homework-autotest-6/tree/main/src/test/java/ru/netology/web)  
+
+#### Отчеты о тестировании
+- [Allure](https://github.com/RytoryQA/Homework-autotest-9/blob/e9368a42e22b82b2ea2841e1e24a616a43ce17b8/build.gradle#L14-L19)
+- 
+
+#### Примеры авто-тестов на JavaScript
+- [Playwright](https://github.com/RytoryQA/Homework-autoJS-3.2)
+
 - JavaScript: в парадигме ООП описана [работа библиотеки](https://github.com/RytoryQA/bjs-2-homeworks/blob/main/5.classes/task.js)
   
 ---
