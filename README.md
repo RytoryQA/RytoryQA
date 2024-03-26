@@ -48,7 +48,7 @@
 #### Примеры авто-тестов на Java 
 - [TestNG](https://github.com/RytoryQA/Homework-autotest-1/blob/testng/src/test/java/org/example/CashbackHackServiceTest.java)
 - [Junit4](https://github.com/RytoryQA/Homework-autotest-1/blob/junit4/src/test/java/org/example/CashbackHackServiceTest.java)
-- [JUnit5](https://github.com/RytoryQA/Homework-10/blob/main/src/test/java/org/example/RadioTest.java) покрытие кода 100% 
+- [JUnit5](https://github.com/RytoryQA/Homework-10/blob/main/src/test/java/org/example/RadioTest.java) 
 - [Selenide](https://github.com/RytoryQA/Homework-autotest-6/blob/main/src/test/java/ru/netology/web/test/MoneyTransferTest.java)
 - [Selenide](https://github.com/RytoryQA/Homework-autotest-9/tree/main/src/test/java/ru/netology)
 - [Selenide](https://github.com/RytoryQA/Homework-autotest-9)
