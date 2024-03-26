@@ -54,8 +54,10 @@
 - [Selenide](https://github.com/RytoryQA/Homework-autotest-9)
 
 #### Примеры авто-тестов на JavaScript
+- [Jest](https://github.com/RytoryQA/Homework-autoJS-3.1)
 - [Playwright](https://github.com/RytoryQA/Homework-autoJS-3.2)  
 - [Puppeteer](https://github.com/RytoryQA/Homework-autoJS-4)
+- [Puppeteer](https://github.com/RytoryQA/Homework-autoJS-5)
 
 #### Базы данных
 - [PostgreSQL](https://github.com/RytoryQA/Homework-autotest-7)  
@@ -80,6 +82,9 @@
 - [Github Actions](https://github.com/RytoryQA/Homework-12) Maven
 - [Github Actions](https://github.com/RytoryQA/Homework-autotest-3) Gradle
 - [Appveyor](https://github.com/RytoryQA/Homework-autotest-5.2)
+
+#### BDD 
+- [Cucumber](https://github.com/RytoryQA/Homework-autoJS-5)
   
 ---
 #### 🏆 Электронные сертификаты
