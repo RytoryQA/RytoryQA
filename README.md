@@ -2,7 +2,7 @@
 
 
 
-### Обо мне:
+### 🕊 Обо мне:
 
 Я начинающий специалист в области тестирования программного обеспечения. Владею навыками ручного тестирования и написания авто-тестов. В настоящий момент продолжаю изучение автоматизации тестирования веб- и мобильных приложений.
 
@@ -36,9 +36,11 @@
  <img alt="Jest" src="https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=C21325"/>
  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
----
+-----
+
 ### 💡 Портфолио:
-> [Мои проекты здесь](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+> [Мои проекты здесь](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
+> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 -------
 #### 🏆 Электронные сертификаты
 > [Сертификаты](https://github.com/RytoryQA/RytoryQA/blob/main/Certificates.md) подтвержадющие навыки
