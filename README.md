@@ -43,7 +43,8 @@
 
 #### Примеры баг-репортов:
 - [баг-репорт 1](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  
-- [баг-репорт 2](https://github.com/RytoryQA/Homework-autotest-6/issues/1)
+- [баг-репорт 2](https://github.com/RytoryQA/Homework-autotest-6/issues/1)  
+- [баг-репорт 3](https://github.com/RytoryQA/JavaRecipes/issues/1)  
 
 #### Примеры авто-тестов на Java 
 - [TestNG](https://github.com/RytoryQA/Homework-autotest-1/blob/testng/src/test/java/org/example/CashbackHackServiceTest.java)
