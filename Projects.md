@@ -2,11 +2,13 @@
 
 -----
 
-| Баг-репорты:|
-|---|
-| [баг-репорт 1](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  |
-| [баг-репорт 2](https://github.com/RytoryQA/Homework-autotest-6/issues/1)  |
-| [баг-репорт 3](https://github.com/RytoryQA/JavaRecipes/issues/1)  |
+| Баг-репорты:| Тест-кейсы: |
+|---|---|
+| [баг-репорт 1](https://docs.google.com/spreadsheets/d/11Bqb0HIIIa28UrQifdMepBLf4g4Bxy1k/edit#gid=241339480)  |  [тест-кейсы](https://docs.google.com/spreadsheets/d/1RZv2TV9C5I9ZH6MuL53Uc7U_ID0Np0FCIigROalSH_s/edit#gid=0)  |
+| [баг-репорт 2](https://docs.google.com/spreadsheets/d/1wZAnR34TCApNlnzD1Y-tX6NEAZnzEgDyEk3cw1yB9IM/edit#gid=0)  |
+| [баг-репорт 3](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  |
+| [баг-репорт 4](https://github.com/RytoryQA/Homework-autotest-6/issues/1)  |
+| [баг-репорт 5](https://github.com/RytoryQA/JavaRecipes/issues/1)  |
 
 -------
 
@@ -15,7 +17,7 @@
 | **Задача:** протестировать сервис подсчета бонуса (при покупке кешбек начисляется за каждую полную 1000 рублей).  |
 | [Решение на TestNG](https://github.com/RytoryQA/Homework-autotest-1/blob/testng/src/test/java/org/example/CashbackHackServiceTest.java)  |
 | [Решение на JUnit4](https://github.com/RytoryQA/Homework-autotest-1/blob/junit4/src/test/java/org/example/CashbackHackServiceTest.java)  |
-| **Задача:** реализовать логику работы радио. Провести unit-тестироваине с 100% покрытием по бранчам, применив техникитест-дизайна. Настроить CI.  |
+| **Задача:** реализовать логику работы радио. Провести unit-тестироваине с 100% покрытием по бранчам, применив техники тест-дизайна. Настроить CI.  |
 | [Решение на JUnit5:](https://github.com/RytoryQA/Homework-10)  |
 | **Задача:** Реализовать через Page Object's тестирование функции перевода с карты на карту. Настроить CI.  |
 | [Решение Selenide](https://github.com/RytoryQA/Homework-autotest-6)  | 
