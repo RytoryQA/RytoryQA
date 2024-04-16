@@ -35,11 +35,12 @@
  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-%23323330.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
  <img alt="Jest" src="https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=C21325"/>
  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+ <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white"/>
 
 -----
 
 ### 💡 Портфолио:
-> [Мои проекты здесь](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
+> [Мои учебные проекты здесь](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 -------
 #### 🏆 Электронные сертификаты
