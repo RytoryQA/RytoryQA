@@ -1,4 +1,4 @@
-## Привет, меня зовут Виктория! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Привет, меня зовут Виктория! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 
@@ -44,13 +44,16 @@ QA Engineer с опытом ручного и автоматизированно
 
 ### 💡 Портфолио:
 #### Каталог тестовой документации
-| Баг-репорты:| Тест-кейсы: |
-|---|---|
-| [баг-репорт 1](https://docs.google.com/spreadsheets/d/11Bqb0HIIIa28UrQifdMepBLf4g4Bxy1k/edit#gid=241339480)  |  [тест-кейсы](https://docs.google.com/spreadsheets/d/1RZv2TV9C5I9ZH6MuL53Uc7U_ID0Np0FCIigROalSH_s/edit#gid=0)  |
-| [баг-репорт 2](https://docs.google.com/spreadsheets/d/1wZAnR34TCApNlnzD1Y-tX6NEAZnzEgDyEk3cw1yB9IM/edit#gid=0)  |
-| [баг-репорт 3](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  |
-| [баг-репорт 4](https://github.com/RytoryQA/Homework-autotest-6/issues/1)  |
-| [баг-репорт 5](https://github.com/RytoryQA/JavaRecipes/issues/1)  |
+| Тип документа | Название документа | Ссылка на документ |
+| :--- | :--- | :--- |
+| Чек-лист | Чек-лист тестирования подписок для Android-приложения музыкального стримминга  | [checklist_android_subscriptions.xlsx](https://docs.google.com/spreadsheets/d/1qp6lUAWIDumtJjg3-UjTgJKUZvqEALFBf7NlnmzyRLU/edit?usp=sharing) |  
+| Чек-лист | Чек-лист тестирования специфики мобильной платформы онлайн-кинотеатра  | [checklist_mobile_platform.xlsx](https://docs.google.com/spreadsheets/d/1jUsRCSuDD-bddZ8W7vKnCS9Aa5ehKMSQNCgmH8bYF_0/edit?gid=0#gid=0) |
+| Чек-лист | Тестирование iOS приложения на соответствие гайдлайнам | [checklist_ios_guidelines_compliance.doc](https://docs.google.com/document/d/1hab2Mpg05GTxN0ElC_dQ1j2-NTe1Mbzz1FEbx4wvZkY/edit?usp=sharing) |
+| Чек-лист | Анализ требований новых версий iOS и требований от Apple для релиза приложения| [checklist_ios_release_requirements.doc](https://docs.google.com/document/d/13M_9gLpktZxQncqLr9vxBcuZ-Zgv_D0TrG0fAT4G2Ds/edit?usp=sharing)
+| Тест-кейс | Набор тест-кейсов для ручного тестирования заявки на карту банка | [TC_card_application_form.xlsx](https://docs.google.com/spreadsheets/d/1Aa5c60CpWZt4L8q2QPFEieyUnvb8q1eeJB1rj603htg/edit?usp=sharing) |
+| Баг-репорт | Баг-репорт (тестирование тела ответа заявки на карту через Postman + пример оформления бага в Jira) | [bug_postman_card_application_form.xlsx](https://docs.google.com/spreadsheets/d/1z5AH3smMpy3OhlYaEh42hTk73vnPixjI/edit?usp=sharing&ouid=105213631904553486289&rtpof=true&sd=true) |
+| Баг-репорт | Набор баг-репортов (ручное тестирование заявки на карту банка) | [bug_manual_card_application_form.xlsx](https://docs.google.com/spreadsheets/d/1Dhu0Xe6NqpPVI65ngBdF730ZqxDsrNXnyyKqqgYb7Lw/edit?usp=sharing) |
+| Баг-репорт | Набор баг-репортов (ручное тестирование мобильного приложения SHEIN) | [bug_manual_SHEIN.xlsx](https://docs.google.com/spreadsheets/d/1z34Fb2RK0YTg8ixZJMGIlUy00MGhvXzKPlR_u6LIbb0/edit?usp=sharing) |
 
 #### Портфолио с проектами
 >[Проекты и кейсы](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
