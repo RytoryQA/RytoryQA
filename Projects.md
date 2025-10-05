@@ -1,17 +1,5 @@
 ### Учебные проекты
 
------
-
-| Баг-репорты:| Тест-кейсы: |
-|---|---|
-| [баг-репорт 1](https://docs.google.com/spreadsheets/d/11Bqb0HIIIa28UrQifdMepBLf4g4Bxy1k/edit#gid=241339480)  |  [тест-кейсы](https://docs.google.com/spreadsheets/d/1RZv2TV9C5I9ZH6MuL53Uc7U_ID0Np0FCIigROalSH_s/edit#gid=0)  |
-| [баг-репорт 2](https://docs.google.com/spreadsheets/d/1wZAnR34TCApNlnzD1Y-tX6NEAZnzEgDyEk3cw1yB9IM/edit#gid=0)  |
-| [баг-репорт 3](https://github.com/RytoryQA/Homework-autotest-1/issues/1)  |
-| [баг-репорт 4](https://github.com/RytoryQA/Homework-autotest-6/issues/1)  |
-| [баг-репорт 5](https://github.com/RytoryQA/JavaRecipes/issues/1)  |
-
--------
-
 | Автотесты на Java: |
 |---|
 | **Задача:** протестировать сервис подсчета бонуса (при покупке кешбек начисляется за каждую полную 1000 рублей).  |
