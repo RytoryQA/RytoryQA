@@ -61,8 +61,9 @@ QA Engineer с опытом ручного и автоматизированно
 | Баг-репорт | Баг-репорт по проверке логики кэшбек-начислений (автоматизированное тестирование на Java) | GitHub Issues | [bug_autotest_cashback_calculation](https://github.com/RytoryQA/Homework-autotest-1/issues/1)
 | Баг-репорт | Набор баг-репортов в результате тестирования  Android приложения 'Мобильный хоспис' (автоматизированное тестирование Kotlin, Java) | GitHub Issues | [bug_autotest_mobile_hospice](https://github.com/RytoryQA/Diploma/issues) |
 
+-----
 
-#### Портфолио с проектами по автоматизированному тестированию 
+### Портфолио с проектами по автоматизированному тестированию 
 >[Проекты и кейсы](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 -------
