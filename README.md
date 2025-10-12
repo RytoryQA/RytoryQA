@@ -46,18 +46,22 @@ QA Engineer с опытом ручного и автоматизированно
 #### Каталог тестовой документации
 | Тип документа | Название документа | Платформа/Формат | Ссылка на документ |
 | :--- | :--- | :--- | :--- |
-| Чек-лист | Чек-лист тестирования подписок для Android-приложения музыкального стримминга  | Google Sheets | [checklist_android_subscriptions](https://docs.google.com/spreadsheets/d/1qp6lUAWIDumtJjg3-UjTgJKUZvqEALFBf7NlnmzyRLU/edit?usp=sharing) |  
-| Чек-лист | Чек-лист тестирования специфики мобильной платформы онлайн-кинотеатра  | Google Sheets | [checklist_mobile_platform](https://docs.google.com/spreadsheets/d/1jUsRCSuDD-bddZ8W7vKnCS9Aa5ehKMSQNCgmH8bYF_0/edit?gid=0#gid=0) |
-| Чек-лист | Тестирование iOS приложения на соответствие гайдлайнам | Google Docs | [checklist_ios_guidelines_compliance](https://docs.google.com/document/d/1hab2Mpg05GTxN0ElC_dQ1j2-NTe1Mbzz1FEbx4wvZkY/edit?usp=sharing) |
-| Чек-лист | Анализ требований новых версий iOS и требований от Apple для релиза приложения| Google Docs | [checklist_ios_release_requirements](https://docs.google.com/document/d/13M_9gLpktZxQncqLr9vxBcuZ-Zgv_D0TrG0fAT4G2Ds/edit?usp=sharing)
-| Тест-кейс | Набор тест-кейсов для ручного тестирования заявки на карту банка | Google Sheets | [TC_card_application_form](https://docs.google.com/spreadsheets/d/1Aa5c60CpWZt4L8q2QPFEieyUnvb8q1eeJB1rj603htg/edit?usp=sharing) |
+| Чек-лист | Чек-лист тестирования подписок для Android-приложения музыкального стримминга  | Google Sheets | [check_android_subscriptions](https://docs.google.com/spreadsheets/d/1qp6lUAWIDumtJjg3-UjTgJKUZvqEALFBf7NlnmzyRLU/edit?usp=sharing) |  
+| Чек-лист | Чек-лист тестирования специфики мобильной платформы онлайн-кинотеатра  | Google Sheets | [check_mobile_platform](https://docs.google.com/spreadsheets/d/1jUsRCSuDD-bddZ8W7vKnCS9Aa5ehKMSQNCgmH8bYF_0/edit?gid=0#gid=0) |
+| Чек-лист | Чек-лист тестирования iOS приложения на соответствие гайдлайнам | Google Docs | [check_ios_guidelines_compliance](https://docs.google.com/document/d/1hab2Mpg05GTxN0ElC_dQ1j2-NTe1Mbzz1FEbx4wvZkY/edit?usp=sharing) |
+| Чек-лист | Анализ требований новых версий iOS и требований от Apple для релиза приложения| Google Docs | [check_ios_release_requirements](https://docs.google.com/document/d/13M_9gLpktZxQncqLr9vxBcuZ-Zgv_D0TrG0fAT4G2Ds/edit?usp=sharing)
+| Чек-лист | Чек-лист тестирования Android приложения 'Мобильный хоспис' | Google Sheets | [check_mobile_hospice](https://docs.google.com/spreadsheets/d/1iII4p8muD-69jekxH5s5OtSX6J9aN20W45XdGad-X7o/edit?usp=sharing) |
+| Тест-кейс | Набор тест-кейсов для тестирования заявки на карту банка | Google Sheets | [TC_card_application_form](https://docs.google.com/spreadsheets/d/1Aa5c60CpWZt4L8q2QPFEieyUnvb8q1eeJB1rj603htg/edit?usp=sharing) | 
+| Тест-кейс | Набор тест-кейсов для Android приложения 'Мобильный хоспис' | Google Sheets | [TC_mobile_hospice](https://docs.google.com/spreadsheets/d/1nZMr1NwqUDwaWBXnzMckLwkURjm-XGkwAdBmD1xuS8Y/edit?usp=sharing) |
+| Тест-план | План тестирования мобильного приложения 'Мобильный хоспис' | GitHub project | [plan_mobile_hospice](https://github.com/RytoryQA/Diploma/blob/main/report/Plan.md) |
+| Отчет |  Отчет о тестировании Android приложения 'Мобильный хоспис' | GitHub project | [report_mobile_hospice](https://github.com/RytoryQA/Diploma/blob/main/report/Result.md) |
 | Баг-репорт | Баг-репорт (тестирование тела ответа заявки на карту через Postman + пример оформления бага в Jira) | Google Sheets | [bug_postman_card_application_form](https://docs.google.com/spreadsheets/d/1z5AH3smMpy3OhlYaEh42hTk73vnPixjI/edit?usp=sharing&ouid=105213631904553486289&rtpof=true&sd=true) |
 | Баг-репорт | Набор баг-репортов (ручное тестирование заявки на карту банка) | Google Sheets | [bug_manualtest_card_application_form](https://docs.google.com/spreadsheets/d/1Dhu0Xe6NqpPVI65ngBdF730ZqxDsrNXnyyKqqgYb7Lw/edit?usp=sharing) |
 | Баг-репорт | Набор баг-репортов (ручное тестирование мобильного приложения SHEIN) | Google Sheets | [bug_manualtest_SHEIN](https://docs.google.com/spreadsheets/d/1z34Fb2RK0YTg8ixZJMGIlUy00MGhvXzKPlR_u6LIbb0/edit?usp=sharing) |
-| Баг-репорт | Баг-репорт по проверке логики кэшбек-начислений (автоматизированное тестирование на Java) | GitHub Issues | [GitHub_Issues - bug_autotest_cashback_calculation](https://github.com/RytoryQA/Homework-autotest-1/issues/1)
+| Баг-репорт | Баг-репорт по проверке логики кэшбек-начислений (автоматизированное тестирование на Java) | GitHub Issues | [bug_autotest_cashback_calculation](https://github.com/RytoryQA/Homework-autotest-1/issues/1)
 
 
-#### Портфолио с проектами
+#### Портфолио с проектами по автоматизированному тестированию 
 >[Проекты и кейсы](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 -------
