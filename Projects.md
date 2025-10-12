@@ -11,7 +11,8 @@
 | [Решение Selenide](https://github.com/RytoryQA/Homework-autotest-6)  | 
 | **Задача:** Автоматизировать тестирование новой функции формы заказа доставки карты. Для группировки полей использовать data-классы и утилитный класс-генератор данных. Подключить отчет о тестировании Allure, интегрированный с Selenide.  |
 | [Решение Selenide](https://github.com/RytoryQA/Homework-autotest-9)  |
-
+| Дипломный проект "Тестирование мобильного приложения 'Мобильный хоспис'". В проекте применен подход объектно-ориентированного программирования (ООП). UI-тесты находятся в [папке](https://github.com/RytoryQA/Diploma/tree/main/app/src/androidTest/java/ru/iteco/fmhandroid/ui), документация по проекту. включающая тест-план. чек-лист, тест-кейсы, отчет о результатах тестирования (в т.ч. Allure) находится в [папке](https://github.com/RytoryQA/Diploma/tree/main/report) |
+| [Diploma_project](https://github.com/RytoryQA/Diploma) |
 -------
 
 | Автотесты на JavaScript:  |
