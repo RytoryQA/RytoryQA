@@ -59,6 +59,7 @@ QA Engineer с опытом ручного и автоматизированно
 | Баг-репорт | Набор баг-репортов (ручное тестирование заявки на карту банка) | Google Sheets | [bug_manualtest_card_application_form](https://docs.google.com/spreadsheets/d/1Dhu0Xe6NqpPVI65ngBdF730ZqxDsrNXnyyKqqgYb7Lw/edit?usp=sharing) |
 | Баг-репорт | Набор баг-репортов (ручное тестирование мобильного приложения SHEIN) | Google Sheets | [bug_manualtest_SHEIN](https://docs.google.com/spreadsheets/d/1z34Fb2RK0YTg8ixZJMGIlUy00MGhvXzKPlR_u6LIbb0/edit?usp=sharing) |
 | Баг-репорт | Баг-репорт по проверке логики кэшбек-начислений (автоматизированное тестирование на Java) | GitHub Issues | [bug_autotest_cashback_calculation](https://github.com/RytoryQA/Homework-autotest-1/issues/1)
+| Баг-репорт | Набор баг-репортов в результате тестирования  Android приложения 'Мобильный хоспис' (автоматизированное тестирование Kotlin, Java) | GitHub Issues | [bug_autotest_mobile_hospice](https://github.com/RytoryQA/Diploma/issues) |
 
 
 #### Портфолио с проектами по автоматизированному тестированию 
