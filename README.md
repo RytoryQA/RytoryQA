@@ -1,10 +1,11 @@
-## Привет, меня зовут Виктория! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Привет, меня зовут Виктория! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 
 ### 🕊 Обо мне:
 
-QA Engineer с опытом ручного и автоматизированного тестирования на Java и JavaScript. Искренне заинтересована в профессии и считаю тестирование неотъемлемой частью процесса создания качественного продукта.
+QA Engineer с опытом ручного и автоматизированного тестирования на Java и JavaScript.
+Искренне заинтересована в профессии и считаю тестирование неотъемлемой частью процесса создания качественного продукта.
 
 ---
 
@@ -42,19 +43,41 @@ QA Engineer с опытом ручного и автоматизированно
 -----
 
 ### 💡 Портфолио:
-> [Мои учебные проекты здесь](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
+#### Каталог тестовой документации
+| Тип документа | Название документа | Платформа/Формат | Ссылка на документ |
+| :--- | :--- | :--- | :--- |
+| Чек-лист | Чек-лист тестирования подписок для Android-приложения музыкального стримминга  | Google Sheets | [check_android_subscriptions](https://docs.google.com/spreadsheets/d/1qp6lUAWIDumtJjg3-UjTgJKUZvqEALFBf7NlnmzyRLU/edit?usp=sharing) |  
+| Чек-лист | Чек-лист тестирования специфики мобильной платформы онлайн-кинотеатра  | Google Sheets | [check_mobile_platform](https://docs.google.com/spreadsheets/d/1jUsRCSuDD-bddZ8W7vKnCS9Aa5ehKMSQNCgmH8bYF_0/edit?gid=0#gid=0) |
+| Чек-лист | Чек-лист тестирования iOS приложения на соответствие гайдлайнам | Google Docs | [check_ios_guidelines_compliance](https://docs.google.com/document/d/1hab2Mpg05GTxN0ElC_dQ1j2-NTe1Mbzz1FEbx4wvZkY/edit?usp=sharing) |
+| Чек-лист | Анализ требований новых версий iOS и требований от Apple для релиза приложения| Google Docs | [check_ios_release_requirements](https://docs.google.com/document/d/13M_9gLpktZxQncqLr9vxBcuZ-Zgv_D0TrG0fAT4G2Ds/edit?usp=sharing)
+| Чек-лист | Чек-лист тестирования Android приложения 'Мобильный хоспис' | Google Sheets | [check_mobile_hospice](https://docs.google.com/spreadsheets/d/1iII4p8muD-69jekxH5s5OtSX6J9aN20W45XdGad-X7o/edit?usp=sharing) |
+| Тест-кейс | Набор тест-кейсов для тестирования заявки на карту банка | Google Sheets | [TC_card_application_form](https://docs.google.com/spreadsheets/d/1Aa5c60CpWZt4L8q2QPFEieyUnvb8q1eeJB1rj603htg/edit?usp=sharing) | 
+| Тест-кейс | Набор тест-кейсов для Android приложения 'Мобильный хоспис' | Google Sheets | [TC_mobile_hospice](https://docs.google.com/spreadsheets/d/1nZMr1NwqUDwaWBXnzMckLwkURjm-XGkwAdBmD1xuS8Y/edit?usp=sharing) |
+| Тест-план | План тестирования мобильного приложения 'Мобильный хоспис' | GitHub project | [plan_mobile_hospice](https://github.com/RytoryQA/Diploma/blob/main/report/Plan.md) |
+| Отчет |  Отчет о тестировании Android приложения 'Мобильный хоспис' | GitHub project | [report_mobile_hospice](https://github.com/RytoryQA/Diploma/blob/main/report/Result.md) |
+| Баг-репорт | Баг-репорт (тестирование тела ответа заявки на карту через Postman + пример оформления бага в Jira) | Google Sheets | [bug_postman_card_application_form](https://docs.google.com/spreadsheets/d/1z5AH3smMpy3OhlYaEh42hTk73vnPixjI/edit?usp=sharing&ouid=105213631904553486289&rtpof=true&sd=true) |
+| Баг-репорт | Набор баг-репортов (ручное тестирование заявки на карту банка) | Google Sheets | [bug_manualtest_card_application_form](https://docs.google.com/spreadsheets/d/1Dhu0Xe6NqpPVI65ngBdF730ZqxDsrNXnyyKqqgYb7Lw/edit?usp=sharing) |
+| Баг-репорт | Набор баг-репортов (ручное тестирование мобильного приложения SHEIN) | Google Sheets | [bug_manualtest_SHEIN](https://docs.google.com/spreadsheets/d/1z34Fb2RK0YTg8ixZJMGIlUy00MGhvXzKPlR_u6LIbb0/edit?usp=sharing) |
+| Баг-репорт | Баг-репорт по проверке логики кэшбек-начислений (автоматизированное тестирование на Java) | GitHub Issues | [bug_autotest_cashback_calculation](https://github.com/RytoryQA/Homework-autotest-1/issues/1)
+| Баг-репорт | Набор баг-репортов в результате тестирования  Android приложения 'Мобильный хоспис' (автоматизированное тестирование Kotlin, Java) | GitHub Issues | [bug_autotest_mobile_hospice](https://github.com/RytoryQA/Diploma/issues) |
+
+-----
+
+### Портфолио с проектами по автоматизированному тестированию 
+>[Проекты и кейсы](https://github.com/RytoryQA/RytoryQA/blob/main/Projects.md)  
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 -------
 ### 🏆 Электронные сертификаты
--  [x] [Ручное тестирование веб-приложений]()
--  [x] [Git - система контроля версий]()
--  [x] [Java для тестировщиков]()
--  [x] [Автоматизированное тестирование(Java)]()
--  [x] [JavaScript для тестировщиков]()
--  [x] [Автоматизация тестирования веб-интерфейсов(JavaScript)]()
--  [x] [Тестирование мобильных приложений]()
--  [x] [Тестирование производительности]()
--  [x] [Тестирование безопасности]()
+-  [x] [Сертификат о пройденном обучении по программе "Инженер по тестированию: с нуля до middle"](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%B1%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8.jpeg)
+-  [x] [Ручное тестирование веб-приложений](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.jpeg)
+-  [x] [Git - система контроля версий](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/Git%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.jpeg)
+-  [x] [Java для тестировщиков](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/Java%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.jpeg)
+-  [x] [Автоматизированное тестирование(Java)](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.jpeg)
+-  [x] [JavaScript для тестировщиков](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/JavaScript%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.jpeg)
+-  [x] [Автоматизация тестирования веб-интерфейсов(JavaScript)](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2(JavaScript).jpeg)
+-  [x] [Тестирование мобильных приложений](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.jpeg)
+-  [x] [Тестирование производительности](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.jpeg)
+-  [x] [Тестирование безопасности](https://github.com/RytoryQA/RytoryQA/blob/main/certificates/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.jpeg)
 ___
 
 
